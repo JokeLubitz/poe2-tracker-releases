@@ -10,6 +10,6 @@ Downloads for **PoE 2 Tracker**, a Windows desktop app for tracking Path of Exil
 
 ## Updates
 
-The app checks this page for new versions by itself and asks before installing one. Your runs, drops, prices and layouts are stored separately in `%APPDATA%\poe2-drop-tracker` and are never part of an update.
+The app checks this page for new versions by itself and asks before installing one. Your runs, drops, prices and layouts are stored separately in `%APPDATA%\PoE2Tracker` and are never part of an update.
 
 This repository holds only the release files.
